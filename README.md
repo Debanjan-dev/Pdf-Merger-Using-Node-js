@@ -10,3 +10,10 @@ To get started, open a terminal or command prompt and run the following command 
 
 ```bash
 git clone https://github.com/Debanjan-dev/Pdf-Merger-Using-Node-js
+```
+2.Run 
+Run it in terminal
+```
+npm start
+```
+#make sure to download the modules before running
